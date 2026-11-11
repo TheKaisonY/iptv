@@ -33,3 +33,6 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 #EXTINF:-1 type="movie" group-title="Filmler" tvg-name="Big Buck Bunny",Big Buck Bunny
 https://www.w3schools.com/html/mov_bbb.mp4
+
+#EXTINF:-1 group-title="VOD" tvg-type="movie",Big Buck Bunny
+https://www.w3schools.com/html/mov_bbb.mp4
