@@ -2,7 +2,7 @@
 
 # CANLI TV
 #EXTINF:-1 group-title="Canlı TV", TRT1
-http://176.65.153.12:6001/play/a04f/index.m3u8
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
 #EXTINF:-1 group-title="Canlı TV", StarTV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
@@ -11,7 +11,7 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41
 http://176.65.153.12:6005/play/a02x/index.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",ShowTV
-http://176.65.153.12:6002/play/a05m/index.m3u8
+https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 
 #EXTINF:-1 group-title="Canlı TV",KanalD
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
