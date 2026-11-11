@@ -1,29 +1,26 @@
 #EXTM3U
 
 # CANLI TV
-#EXTINF:-1 group-title="Canlı TV",TRT1
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+#EXTINF:-1 group-title="Canlı TV", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png", TRT1
+https://iptv-web.app/TR/TRT1.tr/
 
-#EXTINF:-1 group-title="Canlı TV",StarTV
+#EXTINF:-1 group-title="Canlı TV", StarTV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
 #EXTINF:-1 group-title="Canlı TV",ATV
-http://87.106.2.165:8443/atvhd/index.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",ShowTV
-https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",KanalD
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",TV8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-
-#EXTINF:-1 group-title="Canlı TV",ATV
-http://87.106.2.165:8443/atvhd/index.m3u8
+http://89.187.191.41/TV8-HD-TR/video.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",AlQuranTV
-https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",MadinahTV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
