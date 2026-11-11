@@ -8,7 +8,7 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
 #EXTINF:-1 group-title="Canlı TV",ATV
-http://176.65.153.12:6005/play/a02x/index.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",ShowTV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
@@ -17,7 +17,7 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",TV8
-http://89.187.191.41/TV8-HD-TR/video.m3u8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",AlQuranTV
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
