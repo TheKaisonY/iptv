@@ -2,16 +2,16 @@
 
 # CANLI TV
 #EXTINF:-1 group-title="Canlı TV", TRT1
-https://iptv-web.app/TR/TRT1.tr/
+http://176.65.153.12:6001/play/a04f/index.m3u8
 
 #EXTINF:-1 group-title="Canlı TV", StarTV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
 #EXTINF:-1 group-title="Canlı TV",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+http://176.65.153.12:6005/play/a02x/index.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",ShowTV
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
+http://176.65.153.12:6002/play/a05m/index.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",KanalD
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
