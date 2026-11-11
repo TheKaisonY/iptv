@@ -30,3 +30,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",360TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+#EXTINF:-1 group-title="Filmler" tvg-name="Hz Yusuf",Hz Yusuf 
+http://92.5.166.217:8081/hz-yusuf
