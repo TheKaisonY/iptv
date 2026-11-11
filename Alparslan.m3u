@@ -24,3 +24,9 @@ http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",MadinahTV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 group-title="Canlı TV",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+
+#EXTINF:-1 group-title="Canlı TV",360TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
