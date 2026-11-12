@@ -4,31 +4,31 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png", group-title="Canlı TV", TRT1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
-#EXTINF:-1 group-title="Canlı TV", StarTV
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Star_TV_%282011-2017%29.svg/1280px-Logo_Star_TV_%282011-2017%29.svg.png?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Canlı TV", StarTV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
-#EXTINF:-1 group-title="Canlı TV",ATV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhemyruOEC-GcFs2-MM6n0imwhQhG8_8LCXj7qElAYNw&s=10" group-title="Canlı TV",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",ShowTV
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/de/thumb/0/03/Logo-ShowTV.svg/1280px-Logo-ShowTV.svg.png?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Canlı TV",ShowTV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 
-#EXTINF:-1 group-title="Canlı TV",KanalD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/4/4e/20240406161353%21Kanal_D.png" group-title="Canlı TV",KanalD
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",TV8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Canlı TV",TV8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",AlQuranTV
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20240723/ourmid/pngtree-kaaba-in-masjid-al-haram-in-mecca-mosque-png-image_12975894.png" group-title="Canlı TV",AlQuranTV
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",MadinahTV
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20240611/ourmid/pngtree-madinah-masjid-al-nabawi-mosque-or-minaret-and-green-dome-in-png-image_12702991.png" group-title="Canlı TV",MadinahTV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",A2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/A2tr.png/revision/latest?cb=20250429111223" group-title="Canlı TV",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",360TV
+#EXTINF:-1 tvg-logo="https://www.turkmedya.com.tr/assets/img/source/png/tv360.png?v=1115" group-title="Canlı TV",360TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",TRT Diyanet Çocuk
