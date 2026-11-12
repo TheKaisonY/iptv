@@ -62,7 +62,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Habert%C3%BCrk_TV_logo.svg/960px-Habert%C3%BCrk_TV_logo.svg.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Canlı TV",Haber Türk
-https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8b65nnyxpdwm&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&cetvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Canlı TV",NTV
+https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Canlı TV",NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
