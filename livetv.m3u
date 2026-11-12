@@ -1,7 +1,7 @@
 #EXTM3U
 
 # CANLI TV
-#EXTINF:-1 group-title="Canlı TV", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png", TRT1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png", group-title="Canlı TV", TRT1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
 #EXTINF:-1 group-title="Canlı TV", StarTV
