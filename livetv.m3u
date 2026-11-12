@@ -31,16 +31,16 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-logo="https://www.turkmedya.com.tr/assets/img/source/png/tv360.png?v=1115" group-title="Canlı TV",360TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",TRT Diyanet Çocuk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/TRT_Diyanet_%C3%87ocuk_logo.svg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Canlı TV",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",DiyanetTV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kg1PXkb5IvOoU7c2haUmoWIPg20lNNFb-jk8qkh4PQ3_4=s900-c-k-c0x00ffffff-no-rj" group-title="Canlı TV",DiyanetTV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cartoon_Network_logo_%282004-2010%29.jpg",Cartoon Network
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Canlı TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cartoon_Network_logo_%282004-2010%29.jpg",Cartoon Network
 http://176.65.153.40:6002/play/a013/index.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",Kanal 7
+#EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png" group-title="Canlı TV",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",Minika Çocuk
