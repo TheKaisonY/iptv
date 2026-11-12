@@ -43,29 +43,29 @@ http://176.65.153.40:6002/play/a013/index.m3u8
 #EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png" group-title="Canlı TV",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",Minika Çocuk
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UI3UKWRTnxXbR3YAnbDIn_sAqiXsno_UE3iOPDAOQw5tdTUS75Q3nGx1fiv8-0o9b9xgdWr8o0o=s900-c-k-c0x00ffffff-no-rj" group-title="Canlı TV",Minika Çocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",TRT Çocuk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TRT_%C3%A7ocuk_logo.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Canlı TV",TRT Çocuk
 http://92.5.166.217:8086/trt-cocuk
 
-#EXTINF:-1 group-title="Canlı TV",TRT Haber
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180906/qrr/kisspng-logo-product-design-brand-font-trkiyenin-ve-dnyann-lk-nsans-robot-5b912b837cf801.0492455115362405155119.jpg" group-title="Canlı TV",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",A Haber
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Canlı TV",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",TRT Müzik
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/3840px-TRT_M%C3%BCzik_logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Canlı TV",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-3333333
-#EXTINF:-1 group-title="Canlı TV",TGRT Haber
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Tgrt.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Canlı TV",TGRT Haber
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",Haber Türk
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Habert%C3%BCrk_TV_logo.svg/960px-Habert%C3%BCrk_TV_logo.svg.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Canlı TV",Haber Türk
 https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8b65nnyxpdwm&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2
 
-#EXTINF:-1 group-title="Canlı TV",NTV
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Canlı TV",NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",Tabii TV
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/3840px-Tabii_logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Canlı TV",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
