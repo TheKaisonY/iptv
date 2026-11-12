@@ -1,7 +1,7 @@
 #EXTM3U
 
 # CANLI TV
-#EXTINF:-1 group-title="Canlı TV", TRT1
+#EXTINF:-1 group-title="Canlı TV", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png", TRT1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
 #EXTINF:-1 group-title="Canlı TV", StarTV
@@ -37,8 +37,8 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Canlı TV",DiyanetTV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Canlı TV",MadinahTV
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 group-title="Canlı TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cartoon_Network_logo_%282004-2010%29.jpg",Cartoon Network
+http://176.65.153.40:6002/play/a013/index.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
@@ -47,7 +47,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",TRT Çocuk
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+http://92.5.166.217:8086/trt-cocuk
 
 #EXTINF:-1 group-title="Canlı TV",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
@@ -57,3 +57,15 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 
 #EXTINF:-1 group-title="Canlı TV",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+3333333
+#EXTINF:-1 group-title="Canlı TV",TGRT Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
+
+#EXTINF:-1 group-title="Canlı TV",Haber Türk
+https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8b65nnyxpdwm&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2
+
+#EXTINF:-1 group-title="Canlı TV",NTV
+https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
+
+#EXTINF:-1 group-title="Canlı TV",Tabii TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
